@@ -1,4 +1,4 @@
-const questions = [
+const question = [
   {
     id: 1,
     question: `How many team members can I invite?`,
@@ -26,4 +26,4 @@ const questions = [
   },
 ];
 
-export default questions;
+export default question;
